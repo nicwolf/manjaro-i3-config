@@ -6,7 +6,7 @@ Xft.dpi: 90
 ! ~/.config/gtk-3.0/settings.ini
 ! ~/.gtkrc-2.0
 
-URxvt.font: xft:mononoki Nerd Font:style=Regular:size=9
+URxvt.font: xft:mononoki Nerd Font:style=Regular:size=12
 URxvt.iso14755: false
 URxvt.iso14755_52: false
 URxvt*scrollBar: false
